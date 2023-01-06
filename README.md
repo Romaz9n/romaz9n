@@ -1,5 +1,3 @@
-[![Header](https://github.com/Romaz9n/romaz9n/blob/main/assets/1-6-23-38-30.gif)](https://artsiomrusau.com/)
-
 <p align="center">
   <img width="640" height="161" src="https://github.com/Romaz9n/romaz9n/blob/main/assets/1-6-23-38-30.gif">
 </p>
