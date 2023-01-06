@@ -1,4 +1,6 @@
 [![Header](https://github.com/Romaz9n/romaz9n/blob/main/assets/1-6-23-38-30.gif)](https://artsiomrusau.com/)
+
+<img align="left" width="100" height="100" src="https://github.com/Romaz9n/romaz9n/blob/main/assets/1-6-23-38-30.gif">
 ## I'm a Quality Assurance Engineer 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1OAsrNVLpgTGUz7AcLWNS1K271Ek97GfH/view?usp=sharing)
