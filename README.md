@@ -27,8 +27,7 @@
 - [Estimatation](https://docs.google.com/spreadsheets/d/1_k_EYtc83ZQwJ2I1fypO7Gy51q5JXCQKNNleVT5qVxo/edit?usp=sharing)
 - [Postman Collections](https://github.com/Romaz9n/postman-collections)
 
-### Follow Me
+### Contact
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/romaz9n_/)
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Romaz9n)
-[![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)](https://twitter.com/rusau_qa)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/rpushkarqa/)
