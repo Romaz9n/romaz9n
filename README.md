@@ -3,10 +3,6 @@
 </p>
 
 ## I'm a Quality Assurance Engineer 
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1OAsrNVLpgTGUz7AcLWNS1K271Ek97GfH/view?usp=sharing)
-
-
 ### Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Asana-090909?style=for-the-badge&logo=asana&logoColor=F75D82)
